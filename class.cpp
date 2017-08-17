@@ -5,7 +5,8 @@ int main(){
     int x,y,res;
     x=5;
     y=4;
-    res=x+y;
+	z=10;
+    res=x+y+z;
     cout << "rpta: " << res << endl;
     return 0;
 }
